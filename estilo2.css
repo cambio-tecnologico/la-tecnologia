@@ -1,0 +1,12 @@
+html {
+	background-image: url("animada.gif");
+}
+
+h1 {
+	text-shadow: 
+	3px 3px 1px red;
+	
+}
+p {
+	text-align: justify;
+}
